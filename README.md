@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hey, I'm SeeGlows
 
-<!--
-**SeeGlows1/SeeGlows1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I’m a passionate C++ developer exploring low-level programming, reverse engineering, and game cheat development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech I'm Working With:
+- 👨‍💻 C++, WinAPI, DirectX, ImGui
+- 🛠️ Cheat Engine, x64dbg, IDA Free
+- 💻 Visual Studio, Git, Live Share
+- 📦 GitHub Projects, Custom Injectors
+
+---
+
+### 📚 Ongoing Projects
+- 🧠 External ESP for [your favorite game]
+- 🎯 Manual map injector with stealth techniques
+- 🛡️ Anti-cheat bypassing experiments (VAC-safe research)
+
+---
+
+### 🚀 Goals
+- Build a complete external cheat from scratch
+- Contribute to open-source game hacking tools
+- Learn more about kernel drivers and secure hooking
+
+---
+
+### 📫 Contact / Follow
+- Discord: `SeeGlows`
+- GitHub: [@SeeGlows1](https://github.com/SeeGlows1)
