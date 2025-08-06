@@ -14,8 +14,8 @@
 
 ---
 
-### 📚 Ongoing Projects
-- 🧠 External ESP for *Rust / CSGO / [insert game]*
+### 📚 Projects
+- 🧠 External ESP for *Rust / CS2 / Apex / Valorant / FiveM / Battlefield*
 - 🎯 Manual map injector with stealth techniques
 - 🛡️ Anti-cheat bypassing experiments (VAC-safe research)
 - 🌐 Pattern scanner with signature-based offsets
