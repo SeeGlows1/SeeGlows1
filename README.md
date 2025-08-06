@@ -41,7 +41,7 @@
 ### 🔥 Visual Projects
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SeeGlows1/SeeGlows1/main/esp.png" width="400" alt="ESP Preview" />
+  <img src="https://raw.githubusercontent.com/SeeGlows1/SeeGlows1/main/ESP.png" width="400" alt="ESP Preview" />
   <br />
   <sub>🔍 External ESP overlay with box, healthbar & W2S math</sub>
 </p>
