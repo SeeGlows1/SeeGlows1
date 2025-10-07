@@ -2,13 +2,13 @@
 
 # 👋 Hey, I'm SeeGlows
 
-🎯 I’m a passionate C++ developer exploring low-level programming, reverse engineering, and game cheat development.
+🎯 I’m a C++ developer exploring low-level programming, reverse engineering, and game cheat development.
 
 ---
 
 ### 🔧 Tech I'm Working With:
 - 👨‍💻 C++, WinAPI, DirectX, ImGui
-- 🛠️ Cheat Engine, x64dbg, IDA Free
+- 🛠️ Cheat Engine, x64dbg, IDAPro
 - 💻 Visual Studio, Git, Live Share
 - 📦 GitHub Projects, Custom Injectors
 
