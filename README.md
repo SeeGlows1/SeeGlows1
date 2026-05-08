@@ -15,16 +15,16 @@
 ---
 
 ### 📚 Projects
-- 🧠 External ESP for *Rust / CS2 / Apex / Valorant / FiveM / Battlefield*
+- 🧠 External ESP for *Rust / CS2 / Apex / Valorant / FiveM / R6, Farlight, etc*
 - 🎯 Manual map injector with stealth techniques
-- 🛡️ Anti-cheat bypassing experiments (VAC-safe research)
+- 🛡️ Anti-cheat bypassing
 - 🌐 Pattern scanner with signature-based offsets
 
 ---
 
 ### 🚀 Goals
-- 🧪 Build a complete external cheat from scratch
-- 💥 Learn kernel-mode drivers & secure hooking
+- 🧪 Build tools to help programming journey
+- 💥 Learn advanced secure hooking
 - 💾 Contribute to open-source game hacking tools
 
 ---
